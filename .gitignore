@@ -1,0 +1,7 @@
+# Personal time data and resume cache
+export/
+cache/
+
+# Python
+__pycache__/
+*.pyc
